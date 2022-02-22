@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iames, by the grace of God, king of England, Scotland, France, and Ireland, defender of the faith, &amp;c. to all and singuler archbishops, bishops, archdeacons, deanes, and their officials ... greeting : whereas wee are very crediblye giuen to vnderstand by the humble supplication and petition of our faithful and louing subiects ... of the ... towne of Yarmouth ... in our countie of Southhampton ...</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1611</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22073</idno>
+            <idno type="STC">STC 8472</idno>
+            <idno type="STC">ESTC S3825</idno>
+            <idno type="EEBO-CITATION">33151044</idno>
+            <idno type="OCLC">ocm 33151044</idno>
+            <idno type="VID">28884</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22073)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28884)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1875:62)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Iames, by the grace of God, king of England, Scotland, France, and Ireland, defender of the faith, &amp;c. to all and singuler archbishops, bishops, archdeacons, deanes, and their officials ... greeting : whereas wee are very crediblye giuen to vnderstand by the humble supplication and petition of our faithful and louing subiects ... of the ... towne of Yarmouth ... in our countie of Southhampton ...</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Thomas Purfoot,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>[1611]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>For one year collections to build a church at Yarmouth.</note>
+                  <note>Other title information, and added title from first 10 lines of text.</note>
+                  <note>"Witnesse our selfe at Westminster the fourth day of September in the Nynth yeare of our Raigne of England, Fraunce and Ireland, and of Scotland the fiue and fortieth."</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church buildings --  England --  Yarmouth.</term>
+               <term>Church fund raising --  England.</term>
+               <term>Yarmouth (England) --  History --  17th century.</term>
+               <term>Great Britain --  History --  James I, 1603-1625.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <head>
+               <figure>
+                  <head>I R</head>
+                  <p>HONI SOIT QVI MAL Y PENSE</p>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <pb facs="tcp:28884:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 7 -->
+            <opener>
+               <signed>
+                  <seg rend="decorInit">I</seg>AMES, By the grace of God King of England, Scotland, France, and Ireland, Defender of the Faith, &amp;c.</signed>
+               <salute>To all and ſinguler Archbiſhops, Biſhops. Archdeacons, Deanes, and their Offi<g ref="char:EOLhyphen"/>cials, Parſons, Vicars, Curats, and to all ſpirituall perſons: And alſo to all Juſtices of y<hi rend="sup">e</hi> Peace, Maiors, Sheriffs, Bayliffs, Conſtables, Churchwardens, and Headboroughs: And to all Offi<g ref="char:EOLhyphen"/>cers of Cities, Boroughs and Townes corporate: And to all other our Officers. Miniſters, and Subiects whatſoeuer they be, as well within Liberties, as without, to whome theſe preſents ſhall come, greeting.</salute>
+            </opener>
+            <p>
+               <hi>WHEREAS</hi> wee are very crediblye giuen to vnderſtand by the humble ſupplication and peti<g ref="char:EOLhyphen"/>tion of our faithful and loyng Subiects the Maior &amp; Burgeſſes of the Burrough or Towne of <hi>Yarmouth</hi> in the Iſle of <hi>Wright</hi> in our Countie of <hi>Southampton,</hi> That our ſaid Town is an ancient Burrough, and was ſometimes ſo peopled and inhabited, as that it had in it three Churches, which Towne in the beginning of the Raigne of our noble Progenitor King <hi>Richard</hi> the ſecond, was wholly burnt and made deſolate by the French, and two of the ſayd Churches and the body of the 3. Church vtterly burnt, raſed &amp; defaced, ſo as there remained onlie the ruinated Chancell of one of the ſaid Churches, which the late Inhabitants of the ſaid Towne haue re<g ref="char:EOLhyphen"/>paired and maintained for the exerciſe of diuine ſeruice, and adminiſtration of the Sacraments. Now foraſmuch as the op<g ref="char:EOLhyphen"/>portunitie of the place (by reaſon of the conueniencie of harbour and our Caſtle there, together with our incoporating the ſame, and graunting liberties therevnto) hath induced many to reſort vnto, build, and dwell in the ſaid Towne, whereby the ſaid Chauncell is not of ſufficient greatnes and capacity to containe the preſent Inhabitants who reſort thither to diuine ſer<g ref="char:EOLhyphen"/>uice, and the eſtate of the ſaid Towne and the Inhabitants thereof is not ſuch, as that they are able to build a Church fit and decent for thoſe who do already reſide there, much leſſe for thoſe who in future times are hoped to reſort thither.</p>
+            <p>
+               <hi>KNOWE</hi> yee therfore, that we tendering the good of the ſaid Towne and Inhabitants thereof, and fauouring their ho<g ref="char:EOLhyphen"/>neſt and religious ſaue concerning the enlarging and reedifying of their Church (holding it one of our chiefeſt cares, and a ſpeciall part of our dutie to giue way and furtherance to ſo good and charitable a worke, whereby not only a competent and conuenient place for preaching the word, and other diuine exerciſes may be prepared, but alſo that Trade and Traffique for the benefite of the ſaid Inhabitants and other our louing Subiects, may hereafter bee there increaſed.) Of our eſpeciall Grace and Princely compaſſion haue giuen and graunted, and by theſe our letters Patents doe giue and grant vnto our ſaid louing Subiects the Mayor and Burgeſſes of our ſaid Towne of <hi>Yarmouth</hi> and their Succeſſors, and to their Deputie the bearer hereof, full power, licence, and authoritie to aske, gather receaue, and take the charitable deuotion and liberall con<g ref="char:EOLhyphen"/>tribution whatſoeuer of all our louing Subiects aſwell ſpirituall as temporall within our Cities of <hi>London</hi> and <hi>Weſtminiſter,</hi> &amp; Suburbes thereof, and in our Counties of <hi>Southampton, Dorſet, Wilteſhire, Somerſet,</hi> &amp; <hi>Devon,</hi> with our Cities of <hi>Wincheſter, Salisburie, Briſtoll, Bathe,</hi> and <hi>Exeter,</hi> together alſo with the Towne of <hi>Poole,</hi> the Iſle of <hi>Wight,</hi> and Towne of <hi>Southampton:</hi> And in all other Cities, Townes corporate, priviledge places, Pariſhes, Villages, and in all other places &amp; liberties What<g ref="char:EOLhyphen"/>ſouer within our ſayt Cities and Counties, and euery of them, and not elſehwere, for and towards the new building and re<g ref="char:EOLhyphen"/>cdifying of the ſaid Church of <hi>Yarmouth.</hi>
+            </p>
+            <p>
+               <hi>WHEREFORE</hi> wee will and commaund you and euery of you, that at ſuch tune and times as ſaid Mayor and Burgeſſes or their Deputie the bearer hereof, ſhall come and repaire to any your Churches or other places, to aſke, and receaue the gratitutes and charitable beneuolence of well diſpoſed perſons, quietly to permit and ſuffer them ſo to dee, without any manner your i<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s &amp; contradictions. And you the ſayd Parſons, Vicars and Curats, for the better ſtirring vp of a charitable beneuolence, deliberatly to publiſh and declare the Tenour of theſe our letters Patents vnto our ſayd Subiects,, Exhorting and charitably moouing and perſwading them to extend their liberall contributions in ſo good and charitable a deede. Any Statute, Law, Ordinance, or Prouiſion heretofore made, to the contrary in any wiſe notwithſtanding.</p>
+            <p>
+               <hi>IN</hi> witneſſe whereof we haue cauſed theſe our Letters to be made Patents for the ſpace of Our whole yeare next after the date hereof of endure</p>
+            <closer>
+               <dateline>Witneſſe our ſelfe at <hi>Weſtminſter</hi> 
+                  <date>the Fourth day of September in the Nynth yeare of our Raigne of England, Fraunce and Ireland; and of Scotland the Fiue and Fortieth.</date>
+               </dateline>
+               <signed>Steward.</signed>
+               <lb/>
+God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by Thomas Purfoot.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
